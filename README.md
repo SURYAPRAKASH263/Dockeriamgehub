@@ -1,1 +1,1 @@
-## This project shows how to work with Github action
+## This project shows how to work with Github action with CI/CD pipeline.
